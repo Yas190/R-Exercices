@@ -16,5 +16,8 @@ Ml
 M = cbind(Nota.aluno1, Nota.aluno2, Tipo)
 M
 
-# Veja que todosos elementos foram interpretados com caracteres, já que estão
+# Veja que todos os elementos foram interpretados com caracteres, já que estão
 # entre aspas
+
+# analisando a estrutura do objeto M
+str(M)

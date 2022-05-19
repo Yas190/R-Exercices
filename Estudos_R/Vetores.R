@@ -3,9 +3,8 @@
 # No caso do vetor, os argumentos são letra ou números.
 
 
-
-c('sete', 'quatro', 'um') # criando um vetor com 3 nomes (vetor de car
-c(7,4, 1) # criando um vetor com 3 númerosacteres)
+c('sete', 'quatro', 'um') # criando um vetor com 3 nomes (vetor de caracteres)
+c(7,4, 1) # criando um vetor com 3 números)
                           # os caracteres precisam estar entre aspas
 
 
