@@ -1,0 +1,48 @@
+---
+title: "Aprendendo a fazer apresentações"
+subtitle: "Primeiro teste com R Markdown"
+author: "Yasmin Pires"
+institute: "UFSM"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+encoding: 'UTF-8'
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: ['metropolis', 'robot-fonts']
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      
+---
+slide 1
+
+---
+
+slide 2
+```{r echo=FALSE}
+knitr::kable(mtcars)
+```
+---
+
+slide 3
+```{r echo=FALSE}
+tabela = data.frame(mtcars)
+tabela
+```
+
+---
+
+slide 4
+```{r}
+x <- 4
+y <- 6
+z <- x + y
+z
+```
+
+---
+  slide 5
+```{r, out.width='50%', fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png")
