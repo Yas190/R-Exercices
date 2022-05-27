@@ -1,0 +1,7 @@
+
+! pdflatex: GUI framework cannot be initialized.
+
+! Sorry, but C:\Users\ypire\AppData\Local\Programs\MiKTeX\miktex\bin\x64\pdflatex.exe did not succeed.
+! FATAL: GUI framework cannot be initialized.
+! FATAL: Data: 
+! FATAL: Source: Libraries\MiKTeX\UI\Qt\mikuiqt.cpp:126

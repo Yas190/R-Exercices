@@ -1,0 +1,12 @@
+---
+title: "Resumo para Fórmlas em Estatística Descritiva"
+author: "Yasmin Pires"
+date: 'xx-xx-xxxx'
+output: html_document
+---
+
+# Probabilidade
+
+---
+
+# Variáveis Aleatórias
