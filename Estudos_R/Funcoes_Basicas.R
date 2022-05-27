@@ -58,7 +58,7 @@ round(Nota.aluno1[2], 0)
 sd(Nota.aluno2)
 #seq(i, j, k): cria uma sequência de i a j com tamanho de passo k
 seq(0,30,2)
-#setdiff(x, y): vetor contendo  elementos do onjunto diferença entre x e y
+#setdiff(x, y): vetor contendo  elementos do conjunto diferença entre x e y
 setdiff(Nota.aluno1,Nota.aluno2)
 #sort(x): ordena valores do vetor em ordem crescente
 sort(Nota.aluno2)
